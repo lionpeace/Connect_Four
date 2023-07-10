@@ -1,6 +1,6 @@
 # Connect_Four
 
-My final project in the Computer Programming Ⅰ course was to make one of the Connect Four or Solitaire games to be played on a terminal. 
+My final project in the Computer Programming Ⅰ course was to make one of the Connect Four or Solitaire games to be played on a TERMINAL. 
 
 In order to do and present one of these projects, I had to get a CC or above in my final exam, but I passed the course with a DC.
 
