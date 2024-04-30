@@ -2,6 +2,8 @@
 #include <string.h>
 #include <time.h>
 
+// github test from BCA
+
 using namespace std;
 
 // TO CREATE THE MATRIX
